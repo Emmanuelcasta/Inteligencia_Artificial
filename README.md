@@ -3,5 +3,5 @@ En comunidades rurales y de bajos ingresos, mucha gente con capacidad de pago no
 
 #INTEGRANTES 
 
-Emmanuel Castañeda Cano - ecastanedc@eafit.edu.co
-Santiago Sabogal Lozano - ssabogall@eafit.edu.co
+- Emmanuel Castañeda Cano - ecastanedc@eafit.edu.co
+- Santiago Sabogal Lozano - ssabogall@eafit.edu.co
