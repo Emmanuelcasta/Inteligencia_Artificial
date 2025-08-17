@@ -1,2 +1,2 @@
 # Inteligencia_Artificial
-Proyecto base del curso
+En comunidades rurales y de bajos ingresos, mucha gente con capacidad de pago no accede a crédito formal por falta de historial, verificaciones lentas y trámites complejos. Queremos ajustar automáticamente los parámetros del motor de decisiones (umbrales de KYC/biometría, reglas de geolocalización, cortes de score alternativo y topes de oferta por segmento) para maximizar la inclusión y el valor esperado del portafolio, cumpliendo límites de riesgo, fraude y fairness. Con datos históricos/simulados de solicitudes (señales de identidad, geoloc, Sisbén, ingresos y resultados de pago) buscamos la política de crédito que aprueba, rechaza o refiere con rapidez y seguridad.
